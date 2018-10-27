@@ -1,0 +1,17 @@
+sys
+tempfile
+__name__
+__builtins__
+__file__
+TemporaryDirectory
+get_path
+__cached__
+__all__
+get_python_lib
+get_config_vars
+unittest_main
+shutil
+_PY31
+__package__
+unittest
+__spec__

@@ -1,0 +1,17 @@
+TESTFN
+py_stat
+os
+__builtins__
+TestFilemodeCStat
+__file__
+unittest
+__package__
+sys
+c_stat
+TestFilemode
+android_not_root
+import_fresh_module
+__name__
+TestFilemodePyStat
+__cached__
+__spec__

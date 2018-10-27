@@ -1,0 +1,15 @@
+test_main
+AbstractPickleModuleTests
+pickle
+AbstractPickleTests
+__spec__
+__file__
+pickletools
+__name__
+OptimizedPickleTests
+support
+MiscTestCase
+__builtins__
+__cached__
+unittest
+__package__
